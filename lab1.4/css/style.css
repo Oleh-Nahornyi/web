@@ -1,0 +1,48 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+.fullwrap {
+	margin: auto;
+	width: 800px;
+	min-height: 440px: 
+ 	background: purple;
+}
+.haeder {
+	margin: 10px;
+	width: 100%;
+	height: 100px;
+	background: green;
+}
+.wrap {
+	margin: 10px;
+	width: 100%;
+	height: 550px;
+	background: blue;
+}
+.sidebar{
+	margin: 15px;
+	width: 25%;
+	height: 500px;
+	float: right;
+	background: grey;
+}
+.main{
+	margin: 15px;
+	width: 60%;
+	height: 500px;
+	float: left;
+	background: yellow;
+
+
+}
+.footer{
+	margin: 10px;
+	width: 100%;
+	height: 150px;
+	background: red;
+}
+.cleaner{
+	clear: both;
+}
