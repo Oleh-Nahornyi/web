@@ -1,0 +1,35 @@
+/* style.css */
+body {
+	background-color: blue;
+}
+
+h1{
+	color: white;
+    
+}
+
+#myhead{
+	color:red;
+	font-size:300%
+}
+
+.Me{color:white;
+background-color:black;
+}
+.sports{font-size: 200%;
+background-color:aqua;
+}
+.lang{
+text-align: right;
+color: Chartreuse ;
+}
+.picture{
+position:relative;
+width:100%;
+text-align:center;
+}
+.picture > img{
+height: 200px;
+width: 200px;
+align: center;
+}
